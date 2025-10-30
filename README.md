@@ -1,5 +1,15 @@
 # 🧠 TALLER DE LENGUAJE Y AUTÓMATAS FINITOS DETERMINISTAS
 
+## Participantes
+
+- Juan Holguin  
+- Sara Leon  
+- Samuel Moya  
+- Luigi Rincon  
+- Uriel Rodriguez  
+- Juan Vasquez
+
+
 ## Descripción general
 
 Este taller corresponde a la práctica sobre **lenguajes formales, tokens y autómatas finitos deterministas (AFD)**.  
